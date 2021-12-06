@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rCPLzL07TW9QWey+r3pqf8ZkV38f3E1cG9/xup450/9e/+gEJeE8fA8MigrI+1c3+E0TfmrBhXP5Uk6eGt1t5A==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\ArchitekturWebApp_KW49_ppedv\\ArchitketurModernerWebAnwendungen\\SingleRespnsibilityPrincipe\\SingleRespnsibilityPrincipe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

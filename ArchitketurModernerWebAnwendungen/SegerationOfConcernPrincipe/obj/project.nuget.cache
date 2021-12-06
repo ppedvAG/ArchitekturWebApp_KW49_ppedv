@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o2I0ZFJMFnx6Au1IJ88Pv9zSoTrs2AtNcLso7yvu15ZCpX0mw176oBoVrTIPhr/AlKkiXk1QK9G0M2hxErxwsw==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\ArchitekturWebApp_KW49_ppedv\\ArchitketurModernerWebAnwendungen\\SegerationOfConcernPrincipe\\SegerationOfConcernPrincipe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

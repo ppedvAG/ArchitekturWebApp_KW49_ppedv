@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JTk7gkF/oJPL9LUKIQg7HxLapqFOn4m+K8PWRNE/JXxSZEMY7dCQKhK9KC/lmQ3uCEMYjFqDhKpcB96MJhPTKA==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\ArchitekturWebApp_KW49_ppedv\\ArchitketurModernerWebAnwendungen\\EnumBitFlags\\EnumBitFlags.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
