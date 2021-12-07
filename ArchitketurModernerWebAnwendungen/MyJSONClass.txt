@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1,
+    "title": "Batman",
+    "description": "Batman und Harley Quinn gründen eine WG",
+    "price": 10
+  }
+]

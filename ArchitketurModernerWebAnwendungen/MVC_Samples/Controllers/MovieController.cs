@@ -22,7 +22,7 @@ namespace MVC_Samples.Controllers
         // GET: Movie
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Movie.ToListAsync());
+            return View(await _context.Movie.ToListAsync()); //Unsere MovieListe wird in MVC in die View als Paramezter übergeben
         }
 
         // GET: Movie/Details/5

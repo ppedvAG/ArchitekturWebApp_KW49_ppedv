@@ -36,36 +36,39 @@ Cascading Style Sheets (CSS) (Client-seitig):
 
 
 ASP.NET MVC (Server-seitiges .NET):
-- [ ] Architektur und Konzepte der modellgetriebenen Entwicklung
-- [ ] ASP.NET vNext
-- [ ] ASP.NET MVC vs. ASP.NET Webforms
+- [x] Architektur und Konzepte der modellgetriebenen Entwicklung
+- [x] ASP.NET vNext (.NET Core) 
+- [x] ASP.NET Core MVC vs. ASP.NET Razor Pages
 - [x] Razor-Syntax
-- [ ] HTML-Hilfsklassen
+- [x] HTML-Hilfsklassen
 
-- [ ] jQuery Einblick 
-- [ ] jQuery Bugfix mit Komma (welche Packages werden noch benötigt)
+- [x] jQuery Einblick 
+- [x] jQuery Bugfix mit Komma (welche Packages werden noch benötigt)
 
 
 Die beliebtesten JavaScript Frameworks:
 - [ ] AngularJS
 - [ ] Weitere JavaScript Frameworks 
 
-Frameworks für Datenzugriff:
-- [ ] Entity Framework
-- [ ] Repository
-- [ ] Unit of Work
 
-Representational State Transfer (REST) Architektur:
+Representational State Transfer (REST) Architektur: (11:00)
 - [ ] Prinzipien
 - [ ] ASP.NET WebAPI
 - [ ] Hypermedia as the Engine of Application State (HATEOAS)
 - [ ] Open Data Protocol (OData)
 - [ ] jQuery Call auf WebAPI 
 
-gRPC
+Frameworks für Datenzugriff: (12:00)
+- [ ] Entity Framework
+- [ ] Repository
+- [ ] Unit of Work
+
+
+
+gRPC?
 - [ ] Überblick
 
-JavaScript (Client-seitig):
+JavaScript (Client-seitig): (13-14 Uhr)
 - [ ] Konzepte von JavaScript
 - [ ] Möglichkeiten und Versionen
 - [ ] JavaScript-Bibliotheken
