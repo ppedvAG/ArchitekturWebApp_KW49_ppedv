@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\DependencyInversion\bin\Debug\net5.0\DependencyInversion.exe
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\DependencyInversion\bin\Debug\net5.0\DependencyInversion.deps.json
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\DependencyInversion\bin\Debug\net5.0\DependencyInversion.runtimeconfig.json
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\DependencyInversion\bin\Debug\net5.0\DependencyInversion.runtimeconfig.dev.json
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\DependencyInversion\bin\Debug\net5.0\DependencyInversion.dll
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\DependencyInversion\bin\Debug\net5.0\ref\DependencyInversion.dll
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\DependencyInversion\bin\Debug\net5.0\DependencyInversion.pdb
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\DependencyInversion\obj\Debug\net5.0\DependencyInversion.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\DependencyInversion\obj\Debug\net5.0\DependencyInversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\DependencyInversion\obj\Debug\net5.0\DependencyInversion.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\DependencyInversion\obj\Debug\net5.0\DependencyInversion.AssemblyInfo.cs
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\DependencyInversion\obj\Debug\net5.0\DependencyInversion.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\DependencyInversion\obj\Debug\net5.0\DependencyInversion.dll
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\DependencyInversion\obj\Debug\net5.0\ref\DependencyInversion.dll
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\DependencyInversion\obj\Debug\net5.0\DependencyInversion.pdb
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\DependencyInversion\obj\Debug\net5.0\DependencyInversion.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewData["Title"] = "TagHelperSample";
+}
+
+<h1>TagHelperSample</h1>
+
+@Html.HelloWorldWithHTML()
+
+@Html.HelloWorldWithName("Mrs M.")
+
+
+@{
+    WebsiteContext websiteContext = new WebsiteContext
+    {
+        Version = new Version(1, 3),
+        CopyrightYear = 2021,
+        Approved = true,
+        TagsToShow = 123
+    };
+}
+
+<h1>CustomTagHelper</h1>
+<website-information info="websiteContext" />
+

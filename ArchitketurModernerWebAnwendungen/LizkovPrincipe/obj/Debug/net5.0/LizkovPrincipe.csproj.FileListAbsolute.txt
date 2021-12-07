@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\LizkovPrincipe\bin\Debug\net5.0\LizkovPrincipe.exe
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\LizkovPrincipe\bin\Debug\net5.0\LizkovPrincipe.deps.json
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\LizkovPrincipe\bin\Debug\net5.0\LizkovPrincipe.runtimeconfig.json
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\LizkovPrincipe\bin\Debug\net5.0\LizkovPrincipe.runtimeconfig.dev.json
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\LizkovPrincipe\bin\Debug\net5.0\LizkovPrincipe.dll
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\LizkovPrincipe\bin\Debug\net5.0\ref\LizkovPrincipe.dll
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\LizkovPrincipe\bin\Debug\net5.0\LizkovPrincipe.pdb
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\LizkovPrincipe\obj\Debug\net5.0\LizkovPrincipe.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\LizkovPrincipe\obj\Debug\net5.0\LizkovPrincipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\LizkovPrincipe\obj\Debug\net5.0\LizkovPrincipe.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\LizkovPrincipe\obj\Debug\net5.0\LizkovPrincipe.AssemblyInfo.cs
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\LizkovPrincipe\obj\Debug\net5.0\LizkovPrincipe.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\LizkovPrincipe\obj\Debug\net5.0\LizkovPrincipe.dll
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\LizkovPrincipe\obj\Debug\net5.0\ref\LizkovPrincipe.dll
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\LizkovPrincipe\obj\Debug\net5.0\LizkovPrincipe.pdb
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\LizkovPrincipe\obj\Debug\net5.0\LizkovPrincipe.genruntimeconfig.cache

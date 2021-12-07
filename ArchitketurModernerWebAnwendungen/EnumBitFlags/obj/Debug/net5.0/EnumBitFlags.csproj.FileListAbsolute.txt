@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\EnumBitFlags\bin\Debug\net5.0\EnumBitFlags.exe
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\EnumBitFlags\bin\Debug\net5.0\EnumBitFlags.deps.json
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\EnumBitFlags\bin\Debug\net5.0\EnumBitFlags.runtimeconfig.json
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\EnumBitFlags\bin\Debug\net5.0\EnumBitFlags.runtimeconfig.dev.json
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\EnumBitFlags\bin\Debug\net5.0\EnumBitFlags.dll
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\EnumBitFlags\bin\Debug\net5.0\ref\EnumBitFlags.dll
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\EnumBitFlags\bin\Debug\net5.0\EnumBitFlags.pdb
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\EnumBitFlags\obj\Debug\net5.0\EnumBitFlags.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\EnumBitFlags\obj\Debug\net5.0\EnumBitFlags.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\EnumBitFlags\obj\Debug\net5.0\EnumBitFlags.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\EnumBitFlags\obj\Debug\net5.0\EnumBitFlags.AssemblyInfo.cs
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\EnumBitFlags\obj\Debug\net5.0\EnumBitFlags.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\EnumBitFlags\obj\Debug\net5.0\EnumBitFlags.dll
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\EnumBitFlags\obj\Debug\net5.0\ref\EnumBitFlags.dll
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\EnumBitFlags\obj\Debug\net5.0\EnumBitFlags.pdb
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\EnumBitFlags\obj\Debug\net5.0\EnumBitFlags.genruntimeconfig.cache

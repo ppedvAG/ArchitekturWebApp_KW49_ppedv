@@ -17,38 +17,38 @@ Architektur Patterns:
 - [x] Model-View-Presenter (MVP)
 
 Hypertext Markup Language (HTML) (Client-seitig):
-- [ ] Konzepte von HTML5
-- [ ] HTML-Bibliotheken und Frameworks
-- [ ] Bootstrap (CSS Samlung mit ein wenig JavaScript) -> jQuery
-- [ ] jQuery Einblick 
-- [ ] jQuery Bugfix mit Komma (welche Packages werden noch benötigt)
+- [x] Konzepte von HTML5
+- [x HTML-Bibliotheken und Frameworks
+- [x] Bootstrap (CSS Samlung mit ein wenig JavaScript) -> jQuery
+
  
 
 
 Cascading Style Sheets (CSS) (Client-seitig):
-- [ ] Konzepte von CSS3
-- [ ] Formatsprache für HTML
-- [ ] Möglichkeiten und Versionen -> Breaking Changes
-- [ ] CSS-Bibliotheken
-- [ ] CSS-Framework Twitter Bootstrap
+- [x] Konzepte von CSS3
+- [x] Formatsprache für HTML
+- [x] Möglichkeiten und Versionen -> Bootstrap 4 und 5 -> Breaking Changes
+- [x] CSS-Bibliotheken
+- [x] CSS-Framework Twitter Bootstrap
 
-JavaScript (Client-seitig):
-- [ ] Konzepte von JavaScript
-- [ ] Möglichkeiten und Versionen
-- [ ] JavaScript-Bibliotheken
-- [ ] JavaScript Object Notation (JSON)
-- [ ] Asynchronous JavaScript and XML (AJAX)
 
-Die beliebtesten JavaScript Frameworks:
-- [ ] AngularJS
-- [ ] Weitere JavaScript Frameworks
+
+
 
 ASP.NET MVC (Server-seitiges .NET):
 - [ ] Architektur und Konzepte der modellgetriebenen Entwicklung
 - [ ] ASP.NET vNext
 - [ ] ASP.NET MVC vs. ASP.NET Webforms
-- [ ] Razor-Syntax
+- [x] Razor-Syntax
 - [ ] HTML-Hilfsklassen
+
+- [ ] jQuery Einblick 
+- [ ] jQuery Bugfix mit Komma (welche Packages werden noch benötigt)
+
+
+Die beliebtesten JavaScript Frameworks:
+- [ ] AngularJS
+- [ ] Weitere JavaScript Frameworks 
 
 Frameworks für Datenzugriff:
 - [ ] Entity Framework
@@ -60,9 +60,17 @@ Representational State Transfer (REST) Architektur:
 - [ ] ASP.NET WebAPI
 - [ ] Hypermedia as the Engine of Application State (HATEOAS)
 - [ ] Open Data Protocol (OData)
+- [ ] jQuery Call auf WebAPI 
 
 gRPC
 - [ ] Überblick
+
+JavaScript (Client-seitig):
+- [ ] Konzepte von JavaScript
+- [ ] Möglichkeiten und Versionen
+- [ ] JavaScript-Bibliotheken
+- [ ] JavaScript Object Notation (JSON)
+- [ ] Asynchronous JavaScript and XML (AJAX)
 
 Werkzeuge:
 - [ ] Visual Studio HTTP-Debugger "Fiddler" Entwicklerwerkzeuge im Browser

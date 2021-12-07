@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\OpenClosePrincipe\bin\Debug\net5.0\OpenClosePrincipe.exe
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\OpenClosePrincipe\bin\Debug\net5.0\OpenClosePrincipe.deps.json
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\OpenClosePrincipe\bin\Debug\net5.0\OpenClosePrincipe.runtimeconfig.json
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\OpenClosePrincipe\bin\Debug\net5.0\OpenClosePrincipe.runtimeconfig.dev.json
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\OpenClosePrincipe\bin\Debug\net5.0\OpenClosePrincipe.dll
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\OpenClosePrincipe\bin\Debug\net5.0\ref\OpenClosePrincipe.dll
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\OpenClosePrincipe\bin\Debug\net5.0\OpenClosePrincipe.pdb
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\OpenClosePrincipe\obj\Debug\net5.0\OpenClosePrincipe.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\OpenClosePrincipe\obj\Debug\net5.0\OpenClosePrincipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\OpenClosePrincipe\obj\Debug\net5.0\OpenClosePrincipe.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\OpenClosePrincipe\obj\Debug\net5.0\OpenClosePrincipe.AssemblyInfo.cs
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\OpenClosePrincipe\obj\Debug\net5.0\OpenClosePrincipe.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\OpenClosePrincipe\obj\Debug\net5.0\OpenClosePrincipe.dll
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\OpenClosePrincipe\obj\Debug\net5.0\ref\OpenClosePrincipe.dll
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\OpenClosePrincipe\obj\Debug\net5.0\OpenClosePrincipe.pdb
+C:\Aktueller Kurs\ArchitekturWebApp_KW49_ppedv\ArchitketurModernerWebAnwendungen\OpenClosePrincipe\obj\Debug\net5.0\OpenClosePrincipe.genruntimeconfig.cache
