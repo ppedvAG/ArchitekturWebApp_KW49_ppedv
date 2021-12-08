@@ -45,28 +45,23 @@ ASP.NET MVC (Server-seitiges .NET):
 - [x] jQuery Einblick 
 - [x] jQuery Bugfix mit Komma (welche Packages werden noch benötigt)
 
-
-Die beliebtesten JavaScript Frameworks:
-- [ ] AngularJS
-- [ ] Weitere JavaScript Frameworks 
-
-
-Representational State Transfer (REST) Architektur: (11:00)
-- [ ] Prinzipien
-- [ ] ASP.NET WebAPI
-- [ ] Hypermedia as the Engine of Application State (HATEOAS)
-- [ ] Open Data Protocol (OData)
-- [ ] jQuery Call auf WebAPI 
-
 Frameworks für Datenzugriff: (12:00)
 - [ ] Entity Framework
 - [ ] Repository
 - [ ] Unit of Work
 
+Representational State Transfer (REST) Architektur: (11:00)
+- [x] Prinzipien
+- [x] ASP.NET WebAPI
+- [ ] Hypermedia as the Engine of Application State (HATEOAS)
+- [ ] Open Data Protocol (OData)
+- [ ] jQuery Call auf WebAPI 
+
+gRPC
+- [x] Überblick
+- [ ] Client-Stream und Server-Stream / Bi-DirectionStream
 
 
-gRPC?
-- [ ] Überblick
 
 JavaScript (Client-seitig): (13-14 Uhr)
 - [ ] Konzepte von JavaScript
@@ -74,6 +69,13 @@ JavaScript (Client-seitig): (13-14 Uhr)
 - [ ] JavaScript-Bibliotheken
 - [ ] JavaScript Object Notation (JSON)
 - [ ] Asynchronous JavaScript and XML (AJAX)
+
+Die beliebtesten JavaScript Frameworks:
+- [ ] AngularJS
+- [ ] Weitere JavaScript Frameworks 
+
+Project-Template -> Clean Architecture
+- [ ] Überblick
 
 Werkzeuge:
 - [ ] Visual Studio HTTP-Debugger "Fiddler" Entwicklerwerkzeuge im Browser

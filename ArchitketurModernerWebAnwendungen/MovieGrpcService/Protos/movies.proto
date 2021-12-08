@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+import "google/protobuf/empty.proto";
+
+option csharp_namespace = "MovieGrpcService.MovieServices";
+
+package MovieServices;
+
+service MyMovieService {
+	rpc GetMovies (google.protobuf.Empty) returns (stream MovieData);
+}
+
+
+
+message MovieData  {
+	int32 id = 1;
+	string Title = 2;
+	string Description = 3;
+}
