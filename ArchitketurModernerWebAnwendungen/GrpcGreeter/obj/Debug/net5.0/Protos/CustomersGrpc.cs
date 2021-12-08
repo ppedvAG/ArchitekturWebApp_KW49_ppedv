@@ -44,12 +44,20 @@ namespace GrpcGreeter.Protos {
 
     static readonly grpc::Marshaller<global::GrpcGreeter.Protos.CustomerLookupModel> __Marshaller_CustomerLookupModel = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::GrpcGreeter.Protos.CustomerLookupModel.Parser));
     static readonly grpc::Marshaller<global::GrpcGreeter.Protos.CustomerModel> __Marshaller_CustomerModel = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::GrpcGreeter.Protos.CustomerModel.Parser));
+    static readonly grpc::Marshaller<global::Google.Protobuf.WellKnownTypes.Empty> __Marshaller_google_protobuf_Empty = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::Google.Protobuf.WellKnownTypes.Empty.Parser));
 
     static readonly grpc::Method<global::GrpcGreeter.Protos.CustomerLookupModel, global::GrpcGreeter.Protos.CustomerModel> __Method_GetCustomerInfo = new grpc::Method<global::GrpcGreeter.Protos.CustomerLookupModel, global::GrpcGreeter.Protos.CustomerModel>(
         grpc::MethodType.Unary,
         __ServiceName,
         "GetCustomerInfo",
         __Marshaller_CustomerLookupModel,
+        __Marshaller_CustomerModel);
+
+    static readonly grpc::Method<global::Google.Protobuf.WellKnownTypes.Empty, global::GrpcGreeter.Protos.CustomerModel> __Method_GetNewCustomers = new grpc::Method<global::Google.Protobuf.WellKnownTypes.Empty, global::GrpcGreeter.Protos.CustomerModel>(
+        grpc::MethodType.ServerStreaming,
+        __ServiceName,
+        "GetNewCustomers",
+        __Marshaller_google_protobuf_Empty,
         __Marshaller_CustomerModel);
 
     /// <summary>Service descriptor</summary>
@@ -67,6 +75,11 @@ namespace GrpcGreeter.Protos {
         throw new grpc::RpcException(new grpc::Status(grpc::StatusCode.Unimplemented, ""));
       }
 
+      public virtual global::System.Threading.Tasks.Task GetNewCustomers(global::Google.Protobuf.WellKnownTypes.Empty request, grpc::IServerStreamWriter<global::GrpcGreeter.Protos.CustomerModel> responseStream, grpc::ServerCallContext context)
+      {
+        throw new grpc::RpcException(new grpc::Status(grpc::StatusCode.Unimplemented, ""));
+      }
+
     }
 
     /// <summary>Creates service definition that can be registered with a server</summary>
@@ -74,7 +87,8 @@ namespace GrpcGreeter.Protos {
     public static grpc::ServerServiceDefinition BindService(CustomerBase serviceImpl)
     {
       return grpc::ServerServiceDefinition.CreateBuilder()
-          .AddMethod(__Method_GetCustomerInfo, serviceImpl.GetCustomerInfo).Build();
+          .AddMethod(__Method_GetCustomerInfo, serviceImpl.GetCustomerInfo)
+          .AddMethod(__Method_GetNewCustomers, serviceImpl.GetNewCustomers).Build();
     }
 
     /// <summary>Register service method with a service binder with or without implementation. Useful when customizing the  service binding logic.
@@ -84,6 +98,7 @@ namespace GrpcGreeter.Protos {
     public static void BindService(grpc::ServiceBinderBase serviceBinder, CustomerBase serviceImpl)
     {
       serviceBinder.AddMethod(__Method_GetCustomerInfo, serviceImpl == null ? null : new grpc::UnaryServerMethod<global::GrpcGreeter.Protos.CustomerLookupModel, global::GrpcGreeter.Protos.CustomerModel>(serviceImpl.GetCustomerInfo));
+      serviceBinder.AddMethod(__Method_GetNewCustomers, serviceImpl == null ? null : new grpc::ServerStreamingServerMethod<global::Google.Protobuf.WellKnownTypes.Empty, global::GrpcGreeter.Protos.CustomerModel>(serviceImpl.GetNewCustomers));
     }
 
   }

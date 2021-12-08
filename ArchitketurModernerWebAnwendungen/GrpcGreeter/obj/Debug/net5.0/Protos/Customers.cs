@@ -24,14 +24,16 @@ namespace GrpcGreeter.Protos {
     static CustomersReflection() {
       byte[] descriptorData = global::System.Convert.FromBase64String(
           string.Concat(
-            "ChZQcm90b3MvY3VzdG9tZXJzLnByb3RvIiUKE0N1c3RvbWVyTG9va3VwTW9k",
-            "ZWwSDgoGdXNlcklkGAEgASgFImcKDUN1c3RvbWVyTW9kZWwSEQoJZmlyc3RO",
-            "YW1lGAEgASgJEhAKCGxhc3ROYW1lGAIgASgJEhMKC2VtYWlsQWRyZXNzGAMg",
-            "ASgJEg8KB2lzQWxpdmUYBCABKAgSCwoDYWdlGAUgASgFMkMKCEN1c3RvbWVy",
-            "EjcKD0dldEN1c3RvbWVySW5mbxIULkN1c3RvbWVyTG9va3VwTW9kZWwaDi5D",
-            "dXN0b21lck1vZGVsQhWqAhJHcnBjR3JlZXRlci5Qcm90b3NiBnByb3RvMw=="));
+            "ChZQcm90b3MvY3VzdG9tZXJzLnByb3RvGhtnb29nbGUvcHJvdG9idWYvZW1w",
+            "dHkucHJvdG8iJQoTQ3VzdG9tZXJMb29rdXBNb2RlbBIOCgZ1c2VySWQYASAB",
+            "KAUiZwoNQ3VzdG9tZXJNb2RlbBIRCglmaXJzdE5hbWUYASABKAkSEAoIbGFz",
+            "dE5hbWUYAiABKAkSEwoLZW1haWxBZHJlc3MYAyABKAkSDwoHaXNBbGl2ZRgE",
+            "IAEoCBILCgNhZ2UYBSABKAUygAEKCEN1c3RvbWVyEjcKD0dldEN1c3RvbWVy",
+            "SW5mbxIULkN1c3RvbWVyTG9va3VwTW9kZWwaDi5DdXN0b21lck1vZGVsEjsK",
+            "D0dldE5ld0N1c3RvbWVycxIWLmdvb2dsZS5wcm90b2J1Zi5FbXB0eRoOLkN1",
+            "c3RvbWVyTW9kZWwwAUIVqgISR3JwY0dyZWV0ZXIuUHJvdG9zYgZwcm90bzM="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
-          new pbr::FileDescriptor[] { },
+          new pbr::FileDescriptor[] { global::Google.Protobuf.WellKnownTypes.EmptyReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
             new pbr::GeneratedClrTypeInfo(typeof(global::GrpcGreeter.Protos.CustomerLookupModel), global::GrpcGreeter.Protos.CustomerLookupModel.Parser, new[]{ "UserId" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::GrpcGreeter.Protos.CustomerModel), global::GrpcGreeter.Protos.CustomerModel.Parser, new[]{ "FirstName", "LastName", "EmailAdress", "IsAlive", "Age" }, null, null, null, null)

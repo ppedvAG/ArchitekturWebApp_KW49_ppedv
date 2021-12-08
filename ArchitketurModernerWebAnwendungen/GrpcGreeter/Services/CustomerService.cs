@@ -1,6 +1,8 @@
-﻿using Grpc.Core;
+﻿using Google.Protobuf.WellKnownTypes;
+using Grpc.Core;
 using GrpcGreeter.Protos;
 using Microsoft.Extensions.Logging;
+using System.Collections.Generic;
 using System.Threading.Tasks;
 
 namespace GrpcGreeter.Services
@@ -35,6 +37,24 @@ namespace GrpcGreeter.Services
             }
 
             return Task.FromResult(output);
+        }
+
+        public override async Task GetNewCustomers(
+            Empty request, 
+            IServerStreamWriter<CustomerModel> responseStream, 
+            ServerCallContext context)
+        {
+            List<CustomerModel> customers = new List<CustomerModel>();
+
+            customers.Add(new CustomerModel() { FirstName = "Tim", LastName = "Corey", Age = 33, EmailAdress = "Tidadfg", IsAlive = true });
+            customers.Add(new CustomerModel() { FirstName = "Bilbo", LastName = "Aueneland", Age = 133, EmailAdress = "bilbo@auenland.de", IsAlive = true });
+            customers.Add(new CustomerModel() { FirstName = "Andre", LastName = "R", Age = 33, EmailAdress = "abc@def.gh", IsAlive = true });
+
+
+            foreach(var cust in customers)
+            {
+                await responseStream.WriteAsync(cust);
+            }
         }
 
     }

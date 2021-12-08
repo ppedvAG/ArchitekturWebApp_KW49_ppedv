@@ -46,33 +46,35 @@ ASP.NET MVC (Server-seitiges .NET):
 - [x] jQuery Bugfix mit Komma (welche Packages werden noch benötigt)
 
 Frameworks für Datenzugriff: (12:00)
-- [ ] Entity Framework
-- [ ] Repository
-- [ ] Unit of Work
+- [x] Entity Framework
+- [x] Repository
+- [x] Unit of Work
 
 Representational State Transfer (REST) Architektur: (11:00)
 - [x] Prinzipien
 - [x] ASP.NET WebAPI
-- [ ] Hypermedia as the Engine of Application State (HATEOAS)
-- [ ] Open Data Protocol (OData)
+- [x] Hypermedia as the Engine of Application State (HATEOAS)
+- [x] Open Data Protocol (OData)
 - [ ] jQuery Call auf WebAPI 
 
 gRPC
 - [x] Überblick
-- [ ] Client-Stream und Server-Stream / Bi-DirectionStream
+- [x] Client-Stream und Server-Stream / Bi-DirectionStream
 
 
+Die beliebtesten JavaScript Frameworks:
+- [ ] AngularJS
+- [ ] Weitere JavaScript Frameworks 
 
 JavaScript (Client-seitig): (13-14 Uhr)
 - [ ] Konzepte von JavaScript
 - [ ] Möglichkeiten und Versionen
 - [ ] JavaScript-Bibliotheken
 - [ ] JavaScript Object Notation (JSON)
-- [ ] Asynchronous JavaScript and XML (AJAX)
 
-Die beliebtesten JavaScript Frameworks:
-- [ ] AngularJS
-- [ ] Weitere JavaScript Frameworks 
+
+
+- [ ] Asynchronous JavaScript and XML (AJAX)
 
 Project-Template -> Clean Architecture
 - [ ] Überblick
@@ -91,3 +93,7 @@ Interessenpunkt:
   - Fiddler Client / Postman / Swagger / HttpRepl (Aufruf von HTTP-Services)
 
 
+  Link Collection:
+
+ WebAPI ->HATEOAS -> https://github.com/CodeMazeBlog/advanced-rest-concepts-aspnetcore/tree/hateoas-end
+ WebAPI ->DataShapping -> https://code-maze.com/data-shaping-aspnet-core-webapi/
